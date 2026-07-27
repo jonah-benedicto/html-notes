@@ -1,2 +1,2 @@
-# html-notes
+# HTML Notes
 Reference for HTML
