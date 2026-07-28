@@ -8,6 +8,8 @@ Reference for HTML
 - [Paragraphs](./paragraphs)
 - [Links](./links)
 - [Images](./images)
+- [Line Break](./line-break)
+- [Attributes](./attributes)
 
 ## License
 This repository is licensed under the [MIT License](./LICENSE).
