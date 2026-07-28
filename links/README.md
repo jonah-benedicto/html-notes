@@ -1,0 +1,12 @@
+# Links
+Links are defined with `<a>`.
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://www.github.com">This is a link</a>
+
+</body>
+</html>
+```
